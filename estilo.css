@@ -138,6 +138,7 @@ input, textarea {
     font-weight: bold;
 }
 /* Ajuste da Foto de Perfil */
+
 .profile-img {
     display: block;
     max-width: 300px;
