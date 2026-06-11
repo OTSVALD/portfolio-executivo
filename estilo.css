@@ -140,11 +140,10 @@ input, textarea {
 /* Ajuste da Foto de Perfil */
 
 .profile-img {
-    display: block;
-    max-width: 300px;
-    width: 100%;
-    height: auto;
-    border-radius: 15px;
-    margin: 0 auto 20px auto;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    display: block !important;
+    max-width: 300px !important;
+    width: 100% !important;
+    height: auto !important;
+    border-radius: 15px !important;
+    margin: 0 auto 20px auto !important;
 }
