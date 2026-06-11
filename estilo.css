@@ -137,7 +137,7 @@ input, textarea {
     cursor: pointer;
     font-weight: bold;
 }
-.profile-img {
+.profile-img  {
   display: block;
   max-width: 300px; /* Isso limita a largura da foto */
   width: 100%;
