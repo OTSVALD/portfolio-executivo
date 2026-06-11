@@ -137,12 +137,13 @@ input, textarea {
     cursor: pointer;
     font-weight: bold;
 }
-.profile-img  {
-  display: block;
-  max-width: 300px; /* Isso limita a largura da foto */
-  width: 100%;
-  height: auto;
-  border-radius: 15px; /* Deixa as bordas arredondadas e elegantes */
-  margin: 0 auto 20px auto; /* Centraliza a foto e dá espaço para o texto */
-  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Adiciona uma sombra suave */
+/* Ajuste da Foto de Perfil */
+.profile-img {
+    display: block;
+    max-width: 300px;
+    width: 100%;
+    height: auto;
+    border-radius: 15px;
+    margin: 0 auto 20px auto;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
 }
