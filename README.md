@@ -1,29 +1,35 @@
-# Portfólio Profissional Executivo Pro
-https://otsvald.github.io/portfolio-executivo/
+# Nome do Projeto
+
+[Link para o Projeto](https://exemplo.com)
 
 ## Descrição
-Website de alto impacto visual, perfeitamente centralizado e responsivo, desenvolvido com foco em performance e design moderno para destacar competências e projetos de nível executivo.
+Este é um projeto de portfólio desenvolvido para demonstrar habilidades em desenvolvimento front-end.
 
-## Tecnologias e Recursos
-- **HTML5 Semântico**: Estrutura otimizada para SEO e acessibilidade.
-- **CSS3**: Utilização de Flexbox, Grid, Gradientes e técnicas avançadas de centralização via container.
-- **JavaScript (ES6+) e jQuery 3.6.0**: Interatividade dinâmica e manipulação eficiente do DOM.
-- **Google Fonts**: Tipografia profissional utilizando Montserrat e Open Sans.
-- **FontAwesome 6.0**: Biblioteca de ícones vetoriais para interface de alta qualidade.
+## Tecnologias
+- HTML5
+- CSS3
+- JavaScript
 
-## Funcionalidades Detalhadas
-- **Layout Centralizado**: Equilíbrio visual rigoroso mantido em todas as resoluções de tela.
-- **Hero Section Impactante**: Design sofisticado com gradientes e Call to Action (CTA) estratégico.
-- **Galeria de Projetos**: Sistema de filtro dinâmico por categorias para melhor experiência do usuário.
-- **FAQ Interativo**: Componente de acordeão suave para apresentação de perguntas frequentes.
-- **Navegação Inteligente**: Implementação de Smooth Scroll e menu mobile totalmente responsivo.
-- **Validação de Formulário**: Verificação de integridade de dados no front-end para garantir a qualidade do contato.
+## Funcionalidades
+- Design responsivo
+- Interatividade com jQuery
+- Layout moderno
 
-## Estrutura de Arquivos
-- `index.html`: Estrutura principal do documento.
-- `style.css`: Folha de estilos com design responsivo e moderno.
-- `script.js`: Lógica de interação e funcionalidades dinâmicas.
-- `README.md`: Documentação técnica do projeto.
+## Estrutura
+- index.html
+- css/style.css
+- js/script.js
 
-## Instruções de Uso
-Para visualizar o projeto em seu ambiente local, basta realizar o download dos arquivos e abrir o arquivo `index.html` diretamente em qualquer navegador moderno (Chrome, Firefox, Edge ou Safari).
+## Instruções
+1. Clone o repositório.
+2. Abra o arquivo index.html no seu navegador.
+
+## Créditos e Referências
+Este projeto foi desenvolvido de forma original, utilizando as seguintes bibliotecas e recursos externos:
+- **Ícones**: [FontAwesome 6.0](https://fontawesome.com/) (Licença Gratuita).
+- **Tipografia**: [Google Fonts](https://fonts.google.com/) (Montserrat e Open Sans).
+- **Bibliotecas**: [jQuery 3.6.0](https://jquery.com/) (Licença MIT).
+- **Imagens e Assets**: Recursos de domínio público ou criados especificamente para este portfólio.
+
+---
+*Projeto desenvolvido para fins acadêmicos, aplicando conceitos de Desenvolvimento Front-End.*
